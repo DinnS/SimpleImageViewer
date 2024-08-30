@@ -1,0 +1,10 @@
+A:/Project/QT/ImageViewer/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/CMakeFiles/ImageViewer.dir
+A:/Project/QT/ImageViewer/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/CMakeFiles/ImageViewer_qmlimportscan.dir
+A:/Project/QT/ImageViewer/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/CMakeFiles/edit_cache.dir
+A:/Project/QT/ImageViewer/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/CMakeFiles/rebuild_cache.dir
+A:/Project/QT/ImageViewer/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/CMakeFiles/list_install_components.dir
+A:/Project/QT/ImageViewer/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/CMakeFiles/install.dir
+A:/Project/QT/ImageViewer/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/CMakeFiles/install/local.dir
+A:/Project/QT/ImageViewer/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/CMakeFiles/install/strip.dir
+A:/Project/QT/ImageViewer/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/CMakeFiles/ImageViewer_autogen_timestamp_deps.dir
+A:/Project/QT/ImageViewer/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/CMakeFiles/ImageViewer_autogen.dir
