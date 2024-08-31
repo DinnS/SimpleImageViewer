@@ -56,8 +56,8 @@ Window {
             spacing: 30
 
             // Button size init
-            property real buttonWidth: buttonContainer.width
-            property real buttonHeight: 100
+            property real buttonWidth: buttonContainer.width - 30
+            property real buttonHeight: 80
 
             // Buttons
             HoverButton {

@@ -4,9 +4,9 @@ Item {
     id: root
 
     // Default button color init
-    property color backgroundColor: "#4A90E2"
-    property color hoverBackgroundColor: "#357ABD"
-    property color pressBackgroundColor: "#2C5E9E"
+    property color backgroundColor: "#32CD32"
+    property color hoverBackgroundColor: "#2EB82E"
+    property color pressBackgroundColor: "#28A428"
 
     property color textColor: "#FFFFFF"
     property color hoverTextColor: "#FFFFFF"
