@@ -11,8 +11,4 @@ Image Viewer shows the prepared image according to which of the 3 buttons the us
 
 ## Setup for Windows
 
-1. Download the `installer` folder to your local machine.
-
-2. When `installer` folder is downloaded, locate and execute the `Setup.exe` inside the folder.
-
-3. Finish the installation process
+In the Release tab of GitHub, you can find the setup.exe file that installs the program
